@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentABikeApp.WebAPI", "RentABikeApp.WebAPI\RentABikeApp.WebAPI.csproj", "{6E83A7F1-5D81-494A-BEFE-1DA4DB94E9C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentABikeApp.WebAPI", "RentABikeApp.WebAPI\RentABikeApp.WebAPI.csproj", "{6E83A7F1-5D81-494A-BEFE-1DA4DB94E9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentABikeApp.Model", "RentABikeApp.Model\RentABikeApp.Model.csproj", "{C1ED416A-49DC-438D-A4B7-562C202D5D61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6E83A7F1-5D81-494A-BEFE-1DA4DB94E9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E83A7F1-5D81-494A-BEFE-1DA4DB94E9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E83A7F1-5D81-494A-BEFE-1DA4DB94E9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1ED416A-49DC-438D-A4B7-562C202D5D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ED416A-49DC-438D-A4B7-562C202D5D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ED416A-49DC-438D-A4B7-562C202D5D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ED416A-49DC-438D-A4B7-562C202D5D61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

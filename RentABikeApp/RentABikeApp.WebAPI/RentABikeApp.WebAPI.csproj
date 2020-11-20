@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\RentABikeApp.Model\RentABikeApp.Model.csproj" />
   </ItemGroup>
 
 </Project>
